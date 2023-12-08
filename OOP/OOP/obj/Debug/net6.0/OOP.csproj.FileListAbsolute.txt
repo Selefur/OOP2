@@ -1,0 +1,14 @@
+D:\Папка Саши\OOP\OOP\bin\Debug\net6.0\OOP.exe
+D:\Папка Саши\OOP\OOP\bin\Debug\net6.0\OOP.deps.json
+D:\Папка Саши\OOP\OOP\bin\Debug\net6.0\OOP.runtimeconfig.json
+D:\Папка Саши\OOP\OOP\bin\Debug\net6.0\OOP.dll
+D:\Папка Саши\OOP\OOP\bin\Debug\net6.0\OOP.pdb
+D:\Папка Саши\OOP\OOP\obj\Debug\net6.0\OOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Папка Саши\OOP\OOP\obj\Debug\net6.0\OOP.AssemblyInfoInputs.cache
+D:\Папка Саши\OOP\OOP\obj\Debug\net6.0\OOP.AssemblyInfo.cs
+D:\Папка Саши\OOP\OOP\obj\Debug\net6.0\OOP.csproj.CoreCompileInputs.cache
+D:\Папка Саши\OOP\OOP\obj\Debug\net6.0\OOP.dll
+D:\Папка Саши\OOP\OOP\obj\Debug\net6.0\refint\OOP.dll
+D:\Папка Саши\OOP\OOP\obj\Debug\net6.0\OOP.pdb
+D:\Папка Саши\OOP\OOP\obj\Debug\net6.0\OOP.genruntimeconfig.cache
+D:\Папка Саши\OOP\OOP\obj\Debug\net6.0\ref\OOP.dll
